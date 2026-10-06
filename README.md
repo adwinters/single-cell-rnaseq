@@ -26,11 +26,14 @@ Key R packages used in these workflows include:
 - ggplot2
 
 ## Example Outputs
+
 - Cell type distribution plots
 - UMAP visualizations
-- Cell type annotations
+- Cell type annotation and visualization
 - Differentially expressed gene (DEG) tables
-- Violin, feature, and box plots
+- Violin plots
+- Feature plots
+- Box plots
 
 ## Example Results
 ![Single-cell RNA-seq Results](single_cell_rnaseq_results.png)
