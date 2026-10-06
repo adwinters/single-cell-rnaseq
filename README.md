@@ -33,4 +33,4 @@ Key R packages used in these workflows include:
 - Violin, feature, and box plots
 
 ## Example Results
-!(single_cell_rnaseq_results.png)
+![Single-cell RNA-seq Results](single_cell_rnaseq_results.png)
