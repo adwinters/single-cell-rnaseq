@@ -31,3 +31,6 @@ Key R packages used in these workflows include:
 - Cell type annotations
 - Differentially expressed gene (DEG) tables
 - Violin, feature, and box plots
+
+## Example Results
+single_cell_rnaseq_results.png
